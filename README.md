@@ -9,9 +9,7 @@
 </head>
 <body class="bg-gray-100 font-sans p-4">
 
-  <div class="flex items-center justify-center h-screen">
-  <h1 class="text-3xl font-bold text-center text-black">Hi ✌🏻 I'm Priyanshu</h1>
-</div>
+<h1 align="center" class="text-3xl font-bold text-center text-black">Hi ✌🏻 I'm Priyanshu</h1>
 
 
   <p class="text-center my-4">
