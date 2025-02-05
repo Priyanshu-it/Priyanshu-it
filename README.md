@@ -18,8 +18,8 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
 
-  <h3 class="text-center text-xl font-semibold">🌟 Connect with Me:</h3>
-  <p class="text-center flex justify-center space-x-4">
+  <h3 align="center" class="text-center text-xl font-semibold">🌟 Connect with Me:</h3>
+  <p align="center" class="text-center flex justify-center space-x-4">
     <a href="https://github.com/priyanshu-it" target="_blank" aria-label="GitHub Profile">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
     </a>
@@ -31,7 +31,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
 
   <h3 class="text-2xl font-semibold">Skills and Technologies:</h3>
-  <table class="table-auto w-3/4 mx-auto mt-4 text-white bg-gray-800 border border-gray-600">
+  <table align="center" class="table-auto w-3/4 mx-auto mt-4 text-white bg-gray-800 border border-gray-600">
     <tr>
       <th class="p-4 text-left bg-gray-900">Category</th>
       <th class="p-4 text-left bg-gray-900">Technologies</th>
