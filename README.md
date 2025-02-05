@@ -9,7 +9,7 @@
 </head>
 <body class="bg-gray-100 font-sans p-4">
 
-<h1 align="center" class="text-3xl font-bold text-center text-black">Hi ✌🏻 I'm Priyanshu</h1>
+<h1 align="center" class="text-4xl font-bold text-center text-black">Hi ✌🏻 I'm Priyanshu</h1>
 
 
   <p align="center" class="text-center my-4">
