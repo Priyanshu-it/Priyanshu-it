@@ -7,7 +7,7 @@
   <meta name="keywords" content="Priyanshu, Full Stack Developer, Portfolio, GitHub">
   <meta name="author" content="Priyanshu">
 </head>
-<body class="bg-gray-100 font-sans p-[200px]">
+<body class="bg-gray-100 font-sans p-4">
 
 <h1 align="center" class="text-4xl font-bold text-center text-black">Hi ✌🏻 I'm Priyanshu</h1>
 
