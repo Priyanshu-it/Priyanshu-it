@@ -12,7 +12,7 @@
 <h1 align="center" class="text-4xl font-bold text-center text-black">Hi ✌🏻 I'm Priyanshu</h1>
 
   <p align="center" class="text-center my-4">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=343434&center=true&vCenter=true&width=440&height=45&lines=Hey%2C+I'm+Priyanshu!;Full+Stack+Developer;AI+Explorer;Flutter+Fanatic;Lifelong+Learner" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=343434&center=true&vCenter=true&width=440&height=45&lines=Hey%2C+I'm+Priyanshu!;Full+Stack+Developer;AI+Explorer;Lifelong+Learner" alt="Typing SVG">
   </p>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
