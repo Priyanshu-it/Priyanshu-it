@@ -23,7 +23,7 @@
     <a href="https://github.com/priyanshu-it" target="_blank" aria-label="GitHub Profile">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
     </a>
-    <p></p>
+    <a></a>
     <a href="https://www.linkedin.com/in/priyanshu-in/" target="_blank" aria-label="LinkedIn Profile">
       <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
