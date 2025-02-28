@@ -53,11 +53,11 @@
       <td class="p-4"><strong>Backend</strong></td>
       <td class="p-4">
         <span class="inline-block mr-2">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python">
-        </span>Python, 
-        <span class="inline-block mr-2">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java">
-        </span>Java
+        </span>Java,
+        <span class="inline-block mr-2">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python">
+        </span>Python
       </td>
     </tr>
     <tr>
