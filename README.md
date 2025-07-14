@@ -6,9 +6,6 @@
   <meta name="description" content="Priyanshu Portfolio - Full Stack Developer, AI Explorer, Flutter Fanatic.">
   <meta name="keywords" content="Priyanshu, Full Stack Developer, Portfolio, GitHub">
   <meta name="author" content="Priyanshu">
-  <title>Priyanshu | Full Stack Developer</title>
-  <!-- Tailwind CSS CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 font-sans p-4">
 
