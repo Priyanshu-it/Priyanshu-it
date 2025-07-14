@@ -6,18 +6,21 @@
   <meta name="description" content="Priyanshu Portfolio - Full Stack Developer, AI Explorer, Flutter Fanatic.">
   <meta name="keywords" content="Priyanshu, Full Stack Developer, Portfolio, GitHub">
   <meta name="author" content="Priyanshu">
+  <title>Priyanshu | Full Stack Developer</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 font-sans p-4">
 
 <h1 align="center" class="text-4xl font-bold text-center text-black">Hi ✌🏻 I'm Priyanshu</h1>
 
-  <p align="center" class="text-center my-4">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=343434&center=true&vCenter=true&width=440&height=45&lines=Hey%2C+I'm+Priyanshu!;Full+Stack+Developer;AI+Explorer;Lifelong+Learner" alt="Typing SVG">
-  </p>
+<p align="center" class="text-center my-4">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=343434&center=true&vCenter=true&width=440&height=45&lines=Hey%2C+I'm+Priyanshu!;Full+Stack+Developer;AI+Explorer;Lifelong+Learner" alt="Typing SVG">
+</p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
 
-  <h3 class="text-center text-xl font-semibold">🌟 Connect with Me:</h3>
+<h3 class="text-center text-xl font-semibold">🌟 Connect with Me:</h3>
 <p align="center" class="text-center flex justify-center space-x-4">
   <a href="https://github.com/priyanshu-it" target="_blank" aria-label="GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
@@ -27,7 +30,7 @@
   </a>
 </p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
 
 <h3 class="text-2xl font-semibold">🔎 Skills and Technologies:</h3>
 <table align="center" class="table-auto w-3/4 mx-auto mt-4 text-white bg-gray-800 border border-gray-600">
@@ -71,20 +74,12 @@
     <td class="p-4">
       <span class="inline-block mr-2">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL">
-      </span>MySQL
+      </span>MySQL, 
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" alt="MongoDB">
+      </span>MongoDB
     </td>
   </tr>
-      <td class="p-4"><strong>Databases</strong></td>
-      <td class="p-4">
-        <span class="inline-block mr-2">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL">
-        </span>MySQL, 
-        <span class="inline-block mr-2">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" alt="MongoDB">
-        </span>MongoDB
-      </td>
-    </tr>
-  </table>
-
+</table>
 </body>
 </html>
