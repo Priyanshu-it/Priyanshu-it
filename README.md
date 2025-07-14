@@ -29,38 +29,51 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
 
-  <h3 class="text-2xl font-semibold">🔎 Skills and Technologies:</h3>
-  <table align="center" class="table-auto w-3/4 mx-auto mt-4 text-white bg-gray-800 border border-gray-600">
-    <tr>
-      <th class="p-4 text-left bg-gray-900">Category</th>
-      <th class="p-4 text-left bg-gray-900">Technologies</th>
-    </tr>
-    <tr>
-      <td class="p-4"><strong>Frontend</strong></td>
-      <td class="p-4">
-        <span class="inline-block mr-2">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5">
-        </span>HTML, 
-        <span class="inline-block mr-2">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3">
-        </span>CSS, 
-        <span class="inline-block mr-2">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript">
-        </span>JavaScript
-      </td>
-    </tr>
-    <tr>
-      <td class="p-4"><strong>Backend</strong></td>
-      <td class="p-4">
-        <span class="inline-block mr-2">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java">
-        </span>Java,
-        <span class="inline-block mr-2">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python">
-        </span>Python
-      </td>
-    </tr>
-    <tr>
+<h3 class="text-2xl font-semibold">🔎 Skills and Technologies:</h3>
+<table align="center" class="table-auto w-3/4 mx-auto mt-4 text-white bg-gray-800 border border-gray-600">
+  <tr>
+    <th class="p-4 text-left bg-gray-900">Category</th>
+    <th class="p-4 text-left bg-gray-900">Technologies</th>
+  </tr>
+  <tr>
+    <td class="p-4"><strong>Frontend</strong></td>
+    <td class="p-4">
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5">
+      </span>HTML, 
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3">
+      </span>CSS, 
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript">
+      </span>JavaScript,
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" alt="React">
+      </span>React
+    </td>
+  </tr>
+  <tr>
+    <td class="p-4"><strong>Backend</strong></td>
+    <td class="p-4">
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java">
+      </span>Java,
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python">
+      </span>Python,
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js">
+      </span>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td class="p-4"><strong>Databases</strong></td>
+    <td class="p-4">
+      <span class="inline-block mr-2">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL">
+      </span>MySQL
+    </td>
+  </tr>
       <td class="p-4"><strong>Databases</strong></td>
       <td class="p-4">
         <span class="inline-block mr-2">
