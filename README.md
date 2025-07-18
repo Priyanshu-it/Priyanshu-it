@@ -46,7 +46,7 @@
       </span>CSS, 
       <span class="inline-block mr-2">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript">
-      </span>JavaScript,
+      </span>JavaScript, 
       <span class="inline-block mr-2">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" alt="React">
       </span>React
