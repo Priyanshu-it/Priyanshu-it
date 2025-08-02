@@ -10,7 +10,6 @@
 <body class="bg-gray-100 font-sans p-4">
 
 <h1 align="center" class="text-4xl font-bold text-center text-black">Hi ✌🏻 I'm Priyanshu</h1>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" class="my-8 mx-auto" alt="Animated Divider">
 
 <p align="center" class="text-center my-4">
